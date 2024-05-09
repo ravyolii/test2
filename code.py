@@ -1,2 +1,2 @@
 def code:
-  secret = "aasdf!@#$%qawdfzxc2"
+  password = "BVff@$%qawdfzxc2"
